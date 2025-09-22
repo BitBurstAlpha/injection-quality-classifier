@@ -1,0 +1,42 @@
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+*.egg
+*.log
+
+# Virtual environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Jupyter notebooks
+.ipynb_checkpoints
+
+# Data and models
+data/*.csv
+data/*.xlsx
+data/*.parquet
+!data/README.md
+models/*.pkl
+models/*.joblib
+
+# Streamlit
+.streamlit/secrets.toml
+
+# IDE settings
+.vscode/
+.idea/
+
+# OS files
+Thumbs.db
