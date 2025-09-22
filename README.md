@@ -47,6 +47,15 @@ This project demonstrates that machine learning can provide fast, reliable class
 - The dataset is balanced enough to allow training without heavy resampling.  
 - It reflects real-world injection moulding conditions, making the results meaningful for manufacturing settings.
 
+## Skills Demonstrated
+
+- Data analysis and preprocessing (EDA, scaling, outlier detection, ANOVA, VIF)  
+- Machine learning (Random Forest, ANN, SVM, AdaBoost, Decision Tree)  
+- Model tuning and validation (GridSearchCV, stratified cross-validation)  
+- Evaluation (accuracy, precision, recall, F1, ROC-AUC)  
+- Deployment with Streamlit dashboard  
+- Tools: Python, pandas, NumPy, scikit-learn, matplotlib, seaborn, Git/GitHub
+
 
 ## Process of Project
 
